@@ -34,4 +34,4 @@ while True:
 
     result_primes = B_primes(start, end)
 
-    print(f"Prime numbers between {start} and {end} are: {', '.join(map(str, result_primes))}")
+    print(f"Prime numbers between {start} and {end} are:\n{', '.join(map(str, result_primes))}")
