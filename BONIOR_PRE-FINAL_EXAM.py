@@ -1,3 +1,5 @@
+print("COMPUTER PROGRAMMING 1 - PRE-FINAL EXAM")
+print("Created by:Jeff Justin G. Bonior")
 def A_prime(num):
     #A function to check if a number is a prime
     if num < 2:
